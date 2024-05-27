@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+   
+
+    
+
+}
+
+div {box-shadow: rgb(234, 6, 6) 0px 22px 70px 4px;  }
+.card h3, .card, .facts, .lists, .description, p
+{
+    border-style:groove; border-width: .4px; border-color: rgb(21, 19, 19);
+    padding:5px,
+}
+h3 {
+}
+.card {
+    width:300px;
+    height: 100vhpx;;
+    background-color: #fffffffd;
+    border-radius: 10px;
+    body{
+    background-color: rgb(255, 255, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px
+    
+
+    
+
+}
+
+div {box-shadow: rgb(234, 6, 6) 0px 22px 70px 4px;  }
+.card h3, .card, .facts, .lists, .description, p
+{
+    border-style:groove; border-width: .4px; border-color: rgb(21, 19, 19);
+    padding:5px
+}
+.card {
+    width:300px;
+    height: 100vhpx;;
+    background-color: #fffffffd;
+    border-radius: 10px;
+    
+    
+}   
+.card img {
+    box-shadow: rgb(38, 36, 36) 0px 0px 0px 3px;
+    width: 300px;
+    height: auto;
+    display: block;
+   
+}
+p {
+    font-style:italic; 
+    font-size: 21px;
+    padding: 10px; margin:auto; 
+    
+    }
+.lists {
+    list-style: none; 
+    
+
+
+}
+span { font-weight: bold
+}
+    
+}   
+.card img {
+    box-shadow: rgb(38, 36, 36) 0px 0px 0px 3px;
+    width: 300px;
+    height: auto;
+    display: block;
+   
+}
+p {
+    font-style:italic; 
+    font-size: 21px;
+    padding: 5px; 
+    }
+.lists {
+    list-style: none; 
+    text-align: left; 
+    
+
+
+}
+span { font-weight: bold
+    
+}
